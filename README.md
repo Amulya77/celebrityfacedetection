@@ -1,6 +1,7 @@
 # celebrityfacedetection
 ML mini  project
 
+we will use OPENCV  and haar cascade technique
 
 
 useful
