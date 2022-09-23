@@ -10,3 +10,4 @@ useful
 * https://gist.github.com/FBosler
 * fatkun chrome extension
 * opencv modules (haarcascade on eyes and face)
+* base64 image converter (encoder string)
