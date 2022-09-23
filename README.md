@@ -9,3 +9,4 @@ we will use OPENCV  and haar cascade technique
 useful
 * https://gist.github.com/FBosler
 * fatkun chrome extension
+* opencv modules (haarcascade on eyes and face)
